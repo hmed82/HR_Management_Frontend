@@ -2,7 +2,12 @@
 
 Next.js (App Router) + TypeScript + Tailwind (v4) front end for the HR Management API.
 
-> **Design & API reference:** [`../hr_management/docs/frontend-spec.md`](../hr_management/docs/frontend-spec.md)
+Starting out with the Next.js structure? Open **[`STRUCTURE.md`](STRUCTURE.md)** first —
+it maps the whole final file tree, explains the Next.js conventions
+(route groups, `[id]`, `_components`, layouts) and tells you where each new
+file belongs.
+
+> **Design & API reference:** [`docs/frontend-spec.md`](docs/frontend-spec.md)
 > Full screen-by-screen spec for the prototype and the real implementation.
 
 ## Quick start
